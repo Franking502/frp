@@ -1,0 +1,7 @@
+2026-01-19 20:11:28.227 [I] [frps/root.go:115] frps uses config file: frps.toml
+2026-01-19 20:11:28.304 [I] [server/service.go:241] frps tcp listen on 0.0.0.0:7000
+2026-01-19 20:11:28.304 [I] [frps/root.go:124] frps started successfully
+2026-01-19 20:11:28.304 [I] [server/service.go:358] dashboard listen on 127.0.0.1:7500
+2026-01-19 20:13:30.033 [I] [server/service.go:590] [7c07d9f8d261395c] client login info: ip [192.168.209.152:38072] version [0.66.0] hostname [] os [linux] arch [amd64]
+2026-01-19 20:13:30.036 [I] [proxy/tcp.go:82] [7c07d9f8d261395c] [ssh] tcp proxy listen port [2222]
+2026-01-19 20:13:30.037 [I] [server/control.go:403] [7c07d9f8d261395c] new proxy [ssh] type [tcp] success
